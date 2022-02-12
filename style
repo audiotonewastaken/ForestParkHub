@@ -1,0 +1,84 @@
+#SatP {
+  position: fixed;
+  top: 550px;
+  left: 180px;
+  font-family: "myFirstFont";
+  font-size: 30px;
+  color: #dcc97d;
+}
+#SunP {
+  position: fixed;
+  top: 550px;
+  left: 268px;
+  font-family: "myFirstFont";
+  font-size: 30px;
+  color: #dcc97d;
+}
+#MonP {
+  position: fixed;
+  top: 550px;
+  left: 358px;
+  font-family: "myFirstFont";
+  font-size: 30px;
+  color: #dcc97d;
+}
+#TuesP {
+  position: fixed;
+  top: 550px;
+  left: 447px;
+  font-family: "myFirstFont";
+  font-size: 30px;
+  color: #dcc97d;
+}
+#WedP {
+  position: fixed;
+  top: 550px;
+  left: 535px;
+  font-family: "myFirstFont";
+  font-size: 30px;
+  color: #dcc97d;
+}
+#ThursP {
+  position: fixed;
+  top: 550px;
+  left: 625px;
+  font-family: "myFirstFont";
+  font-size: 30px;
+  color: #dcc97d;
+}
+#FriP {
+  position: fixed;
+  top: 550px;
+  left: 715px;
+  font-family: "myFirstFont";
+  font-size: 30px;
+  color: #dcc97d;
+}
+#Fptweets {
+  position: relative;
+  width: 100px;
+ height: 100px;
+  size: 100px;
+}
+
+iframe:focus {
+  outline: none;
+}
+
+iframe[seamless] {
+  display: block;
+}
+#template{
+display: block;
+max-width: 100%;
+max-height: 100%;
+width: auto;
+height: auto;
+  
+}
+body{
+  font-family: 'Nunito', sans-serif;
+}
+#TitleIntro{
+    font-family: 'Nunito', sans-serif;
+}
