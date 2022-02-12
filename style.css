@@ -82,3 +82,6 @@ body{
 #TitleIntro{
     font-family: 'Nunito', sans-serif;
 }
+#tweets{
+  margin-left: auto; margin-right: auto;
+}
