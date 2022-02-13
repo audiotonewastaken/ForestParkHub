@@ -83,9 +83,6 @@ body{
     font-family: 'Nunito', sans-serif;
 }
 #tweets{
-  margin-left: 100px; 
+  margin-left: 500px; 
 }
-body{
-  font-family: 'Nunito', sans-serif;
-  margin-left: 990;
-}
+
